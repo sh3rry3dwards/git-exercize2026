@@ -1,2 +1,6 @@
 # git-exercize2026
-Adding something small, anything I like. 
+
+Adding something small, anything I like.
+
+Making another change to this markdown file.
+
